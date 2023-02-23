@@ -44,9 +44,6 @@ body {
     width: 500px; 
     padding: 0 20px 20px 0; 
     height: auto; 
-    display: flex; 
-    flex-direction: column;
-    justify-content: center; 
 }
 .awesome {
     color: #F9FAF8; 
