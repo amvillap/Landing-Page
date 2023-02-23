@@ -94,6 +94,8 @@ a {
     font-size: 36px; 
     font-weight: 900; 
     padding: 40px 40px 20px 40px; 
+    color: #1F2937; 
+
 }
 .infobox {
     display: flex; 
