@@ -69,10 +69,9 @@ img {
     border: none; 
     font-weight:800;
 }
-
-a:visited a:link a:hover { 
+a a:visited {
     color: #F9FAF8; 
-    text-align: none;
+    text-decoration: none;
 }
 .middle {
     padding: 20px 80px 20px 80; 
